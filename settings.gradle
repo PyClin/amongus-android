@@ -1,0 +1,3 @@
+include ':typingdnarecordermobile'
+include ':app'
+rootProject.name = "Typing DNA Hack"
